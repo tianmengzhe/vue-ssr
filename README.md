@@ -1,7 +1,7 @@
 # vue-ssr
 
 
-prerender 预编译
+prerender  预渲染
 
 vue-srr  vue srr
 
